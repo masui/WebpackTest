@@ -1,7 +1,5 @@
-//import Vue from 'vue'
-//var Vue = require('vue');
-
-import Vue from "vue/dist/vue.esm.js";
+//import Vue from "vue/dist/vue.esm.js";
+import Vue from 'vue'
 
 var demo = new Vue({
     el: '#demo',
@@ -9,5 +7,3 @@ var demo = new Vue({
 	message: 'Hello Vue.js!'
     }
 });
-
-//})
